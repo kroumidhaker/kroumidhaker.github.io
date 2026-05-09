@@ -5,7 +5,7 @@ const publications = [
     tags: ["game-theory"],
     title: "Sensitivity-driven migration and the evolution of cooperation in multiplayer games on structured populations",
     meta: "Kroumi, D. Physical Review E 112(4), 044306.",
-    link: "https://doi.org/10.1103/PhysRevE.112.044306"
+    link: "https://link.aps.org/doi/10.1103/6gmx-95w9"
   },
   {
     number: 2,
@@ -21,7 +21,7 @@ const publications = [
     tags: ["game-theory"],
     title: "Differential migration in a finite-island model and the evolution of cooperation",
     meta: "Kroumi, D.; Lessard, S. Physical Review E 111(6), 064304.",
-    link: "https://doi.org/10.1103/PhysRevE.111.064304"
+    link: "https://doi.org/10.1103/qgdk-977g"
   },
   {
     number: 4,
@@ -29,7 +29,7 @@ const publications = [
     tags: ["game-theory"],
     title: "Evolutionary game with stochastic payoffs in a finite island model",
     meta: "Kroumi, D.; Lessard, S. Journal of Dynamics and Games 11(4), 295–334.",
-    link: "https://doi.org/10.3934/jdg.2024014"
+    link: "https://www.aimsciences.org/article/doi/10.3934/jdg.2024006"
   },
   {
     number: 5,
@@ -37,7 +37,7 @@ const publications = [
     tags: ["game-theory", "stochastic"],
     title: "Stochastic viability in an island model with partial dispersal: Approximation by a diffusion process",
     meta: "Kroumi, D.; Lessard, S. Theoretical Population Biology 158, 170–184.",
-    link: "https://doi.org/10.1016/j.tpb.2024.06.002"
+    link: "https://doi.org/10.1016/j.tpb.2024.06.003"
   },
   {
     number: 6,
@@ -69,7 +69,7 @@ const publications = [
     tags: ["game-theory"],
     title: "Average abundancy of cooperation in multi-player games with random payoffs",
     meta: "Kroumi, D.; Lessard, S. Journal of Mathematical Biology 85(3), Paper No. 27.",
-    link: "https://doi.org/10.1007/s00285-022-01793-z"
+    link: "https://link.springer.com/article/10.1007/s00285-022-01789-1"
   },
   {
     number: 10,
@@ -93,7 +93,7 @@ const publications = [
     tags: ["game-theory"],
     title: "Effect of variability in payoffs on conditions for the evolution of cooperation in a small population",
     meta: "Kroumi, D.; Martin, É.; Li, C.; Lessard, S. Dynamic Games and Applications 11(4), 803–834.",
-    link: "https://doi.org/10.1007/s13235-021-00386-7"
+    link: "https://link.springer.com/article/10.1007/s13235-021-00383-2"
   },
   {
     number: 13,
@@ -101,7 +101,7 @@ const publications = [
     tags: ["game-theory"],
     title: "A game-theoretic approach to analyze interacting actors in GRL goal models",
     meta: "Hassine, J.; Kroumi, D.; Amyot, D. Requirements Engineering 26(3), 399–422.",
-    link: "https://doi.org/10.1007/s00766-021-00352-y"
+    link: "https://link.springer.com/article/10.1007/s00766-021-00349-1"
   },
   {
     number: 14,
@@ -109,7 +109,7 @@ const publications = [
     tags: ["game-theory"],
     title: "Aspiration can promote cooperation in well-mixed populations as in regular graphs",
     meta: "Kroumi, D. Dynamic Games and Applications 11(2), 390–417.",
-    link: "https://doi.org/10.1007/s13235-020-00362-7"
+    link: "https://link.springer.com/article/10.1007/s13235-020-00368-7"
   },
   {
     number: 15,
@@ -133,7 +133,7 @@ const publications = [
     tags: ["game-theory"],
     title: "Conditions for cooperation to be more abundant than defection in a hierarchically structured population",
     meta: "Kroumi, D.; Lessard, S. Dynamic Games and Applications 5(2), 239–262.",
-    link: "https://doi.org/10.1007/s13235-014-0128-9"
+    link: "https://link.springer.com/article/10.1007/s13235-014-0114-2"
   },
   {
     number: 18,
@@ -141,7 +141,7 @@ const publications = [
     tags: ["game-theory"],
     title: "Evolution of cooperation in a multidimensional phenotype space",
     meta: "Kroumi, D.; Lessard, S. Theoretical Population Biology 102, 60–75.",
-    link: "https://doi.org/10.1016/j.tpb.2015.03.005"
+    link: "https://doi.org/10.1016/j.tpb.2015.03.007"
   }
 ];
 
