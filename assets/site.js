@@ -1,67 +1,67 @@
 const publications = [
   {
     number: 1,
-    year: 2015,
+    year: 2025,
     tags: ["game-theory"],
-    title: "Conditions for cooperation to be more abundant than defection in a hierarchically structured population",
-    meta: "Kroumi, D.; Lessard, S. Dynamic Games and Applications 5(2), 239–262.",
-    link: "https://doi.org/10.1007/s13235-014-0128-9"
+    title: "Sensitivity-driven migration and the evolution of cooperation in multiplayer games on structured populations",
+    meta: "Kroumi, D. Physical Review E 112(4), 044306.",
+    link: "https://doi.org/10.1103/PhysRevE.112.044306"
   },
   {
     number: 2,
-    year: 2015,
+    year: 2025,
     tags: ["game-theory"],
-    title: "Strong migration limit for games in structured populations: applications to dominance hierarchy and set structure",
-    meta: "Kroumi, D.; Lessard, S. Games 6(3), 318–346.",
-    link: "https://doi.org/10.3390/g6030318"
+    title: "The role of selective extinction in promoting cooperation in a many demes model",
+    meta: "Kroumi, D. Journal of Theoretical Biology 613, 112212.",
+    link: "https://doi.org/10.1016/j.jtbi.2025.112212"
   },
   {
     number: 3,
-    year: 2015,
+    year: 2025,
     tags: ["game-theory"],
-    title: "Evolution of cooperation in a multidimensional phenotype space",
-    meta: "Kroumi, D.; Lessard, S. Theoretical Population Biology 102, 60–75.",
-    link: "https://doi.org/10.1016/j.tpb.2015.03.005"
+    title: "Differential migration in a finite-island model and the evolution of cooperation",
+    meta: "Kroumi, D.; Lessard, S. Physical Review E 111(6), 064304.",
+    link: "https://doi.org/10.1103/PhysRevE.111.064304"
   },
   {
     number: 4,
-    year: 2021,
+    year: 2024,
     tags: ["game-theory"],
-    title: "Aspiration can promote cooperation in well-mixed populations as in regular graphs",
-    meta: "Kroumi, D. Dynamic Games and Applications 11(2), 390–417.",
-    link: "https://doi.org/10.1007/s13235-020-00362-7"
+    title: "Evolutionary game with stochastic payoffs in a finite island model",
+    meta: "Kroumi, D.; Lessard, S. Journal of Dynamics and Games 11(4), 295–334.",
+    link: "https://doi.org/10.3934/jdg.2024014"
   },
   {
     number: 5,
-    year: 2021,
-    tags: ["game-theory"],
-    title: "The effect of variability in payoffs on average abundance in two-player linear games under symmetric mutation",
-    meta: "Kroumi, D.; Lessard, S. Journal of Theoretical Biology 513, Paper No. 110569.",
-    link: "https://doi.org/10.1016/j.jtbi.2020.110569"
+    year: 2024,
+    tags: ["game-theory", "stochastic"],
+    title: "Stochastic viability in an island model with partial dispersal: Approximation by a diffusion process",
+    meta: "Kroumi, D.; Lessard, S. Theoretical Population Biology 158, 170–184.",
+    link: "https://doi.org/10.1016/j.tpb.2024.06.002"
   },
   {
     number: 6,
-    year: 2021,
-    tags: ["game-theory"],
-    title: "Effect of variability in payoffs on conditions for the evolution of cooperation in a small population",
-    meta: "Kroumi, D.; Martin, É.; Li, C.; Lessard, S. Dynamic Games and Applications 11(4), 803–834.",
-    link: "https://doi.org/10.1007/s13235-021-00386-7"
+    year: 2023,
+    tags: ["stochastic"],
+    title: "A graphical representation of the truncated moment of the solution of a nonlinear SPDE",
+    meta: "Smii, B.; Kroumi, D. International Journal of Analysis and Applications 21, 132.",
+    link: "https://doi.org/10.28924/2291-8639-21-2023-132"
   },
   {
     number: 7,
-    year: 2021,
-    tags: ["game-theory"],
-    title: "A game-theoretic approach to analyze interacting actors in GRL goal models",
-    meta: "Hassine, J.; Kroumi, D.; Amyot, D. Requirements Engineering 26(3), 399–422.",
-    link: "https://doi.org/10.1007/s00766-021-00352-y"
+    year: 2023,
+    tags: ["inequalities"],
+    title: "Estimating the remainder of an alternating p-series using hypergeometric functions",
+    meta: "Echi, O.; Khalfallah, A.; Kroumi, D. Journal of Mathematical Inequalities 17(2), 569–580.",
+    link: "https://doi.org/10.7153/jmi-2023-17-36"
   },
   {
     number: 8,
-    year: 2022,
-    tags: ["game-theory"],
-    title: "Evolution of cooperation with respect to fixation probabilities in multi-player games with random payoffs",
-    meta: "Kroumi, D.; Martin, É.; Lessard, S. Theoretical Population Biology 145, 1–21.",
-    link: "https://doi.org/10.1016/j.tpb.2022.02.001"
+    year: 2023,
+    tags: ["inequalities"],
+    title: "Sharp estimate of the remainder of some alternating series",
+    meta: "Echi, O.; Khalfallah, A.; Kroumi, D. Mathematical Inequalities & Applications 26(1), 83–91.",
+    link: "https://doi.org/10.7153/mia-2023-26-07"
   },
   {
     number: 9,
@@ -74,26 +74,74 @@ const publications = [
   {
     number: 10,
     year: 2022,
-    tags: ["words"],
-    title: "On primitive words with non-primitive product",
-    meta: "Echi, O.; Khalfallah, A.; Kroumi, D. RAIRO – Theoretical Informatics and Applications 56, Article 4, 11 pp.",
-    link: "https://doi.org/10.1051/ita/2022004"
+    tags: ["game-theory"],
+    title: "Evolution of cooperation with respect to fixation probabilities in multi-player games with random payoffs",
+    meta: "Kroumi, D.; Martin, É.; Lessard, S. Theoretical Population Biology 145, 1–21.",
+    link: "https://doi.org/10.1016/j.tpb.2022.02.001"
   },
   {
     number: 11,
-    year: 2023,
-    tags: ["inequalities"],
-    title: "Estimating the remainder of an alternating p-series using hypergeometric functions",
-    meta: "Echi, O.; Khalfallah, A.; Kroumi, D. Journal of Mathematical Inequalities 17(2), 569–580.",
-    link: "https://doi.org/10.7153/jmi-2023-17-36"
+    year: 2022,
+    tags: ["words"],
+    title: "On primitive words with non-primitive product",
+    meta: "Echi, O.; Khalfallah, A.; Kroumi, D. RAIRO – Theoretical Informatics and Applications 56, Article 4.",
+    link: "https://doi.org/10.1051/ita/2022004"
   },
   {
     number: 12,
-    year: 2023,
-    tags: ["inequalities"],
-    title: "Sharp estimate of the remainder of some alternating series",
-    meta: "Echi, O.; Khalfallah, A.; Kroumi, D. Mathematical Inequalities & Applications 26(1), 83–91.",
-    link: "https://doi.org/10.7153/mia-2023-26-07"
+    year: 2021,
+    tags: ["game-theory"],
+    title: "Effect of variability in payoffs on conditions for the evolution of cooperation in a small population",
+    meta: "Kroumi, D.; Martin, É.; Li, C.; Lessard, S. Dynamic Games and Applications 11(4), 803–834.",
+    link: "https://doi.org/10.1007/s13235-021-00386-7"
+  },
+  {
+    number: 13,
+    year: 2021,
+    tags: ["game-theory"],
+    title: "A game-theoretic approach to analyze interacting actors in GRL goal models",
+    meta: "Hassine, J.; Kroumi, D.; Amyot, D. Requirements Engineering 26(3), 399–422.",
+    link: "https://doi.org/10.1007/s00766-021-00352-y"
+  },
+  {
+    number: 14,
+    year: 2021,
+    tags: ["game-theory"],
+    title: "Aspiration can promote cooperation in well-mixed populations as in regular graphs",
+    meta: "Kroumi, D. Dynamic Games and Applications 11(2), 390–417.",
+    link: "https://doi.org/10.1007/s13235-020-00362-7"
+  },
+  {
+    number: 15,
+    year: 2021,
+    tags: ["game-theory"],
+    title: "The effect of variability in payoffs on average abundance in two-player linear games under symmetric mutation",
+    meta: "Kroumi, D.; Lessard, S. Journal of Theoretical Biology 513, 110569.",
+    link: "https://doi.org/10.1016/j.jtbi.2020.110569"
+  },
+  {
+    number: 16,
+    year: 2015,
+    tags: ["game-theory"],
+    title: "Strong migration limit for games in structured populations",
+    meta: "Kroumi, D.; Lessard, S. Games 6(3), 318–346.",
+    link: "https://doi.org/10.3390/g6030318"
+  },
+  {
+    number: 17,
+    year: 2015,
+    tags: ["game-theory"],
+    title: "Conditions for cooperation to be more abundant than defection in a hierarchically structured population",
+    meta: "Kroumi, D.; Lessard, S. Dynamic Games and Applications 5(2), 239–262.",
+    link: "https://doi.org/10.1007/s13235-014-0128-9"
+  },
+  {
+    number: 18,
+    year: 2015,
+    tags: ["game-theory"],
+    title: "Evolution of cooperation in a multidimensional phenotype space",
+    meta: "Kroumi, D.; Lessard, S. Theoretical Population Biology 102, 60–75.",
+    link: "https://doi.org/10.1016/j.tpb.2015.03.005"
   }
 ];
 
